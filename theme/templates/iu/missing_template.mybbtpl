@@ -1,0 +1,4 @@
+<div style="border: red 1px solid; color: red;">
+  <b>missing template:</b> {$template}<br />
+  Please tell an admin about this missing template.
+</div>
